@@ -1,0 +1,15 @@
+.hero > img{
+    width: 100%;
+}    
+
+@media (min-width:768px){
+    .hero > img {
+        width: 80%;
+    }
+}
+
+@media (min-width:992px){
+    .hero > img {
+        width: 60%;
+    }
+}
